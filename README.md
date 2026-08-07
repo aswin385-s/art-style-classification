@@ -8,7 +8,7 @@ The project uses the ArtBench-10 dataset and learns visual characteristics such 
 
 * CNN-based art style classification
 * ArtBench-10 dataset
-* 10 different art style classes
+* 5 different art style classes
 * Image resizing to 128x128
 * Image normalization
 * Automatic visual feature extraction
