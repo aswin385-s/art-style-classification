@@ -4,7 +4,7 @@ A Convolutional Neural Network (CNN)-based image classification system developed
 
 The project uses the ArtBench-10 dataset and learns visual characteristics such as colors, textures, shapes, patterns, and brushstroke features from artwork images.
 
-## Features
+## Features 
 
 * CNN-based art style classification
 * ArtBench-10 dataset
